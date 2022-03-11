@@ -1,7 +1,20 @@
 - 👋 Hi, I’m @ianobe
 - 👀 I’m interested in software development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ianoberdorf@ieee.org
+
+Knowledgeable languages
+- HTML
+- Java
+- VBA
+- C
+- C#
+- C++
+- Python
+- CSS
+- PHP
+- Batch
+- Shell
+- Powershell
 
 <!---
 ianobe/ianobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
